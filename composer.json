@@ -1,5 +1,5 @@
 {
-  "name": "barryvdh/elfinder-flysystem-driver",
+  "name": "tuanbl/elfinder-flysystem-driver",
   "description": "A Flysystem Driver for elFinder",
   "license": "MIT",
   "keywords": [
@@ -9,8 +9,8 @@
   ],
   "authors": [
     {
-      "name": "Barry vd. Heuvel",
-      "email": "barryvdh@gmail.com"
+      "name": "Kim",
+      "email": "kim@gmail.com"
     }
   ],
   "require": {
